@@ -28,8 +28,8 @@
 
 ---
 
-## 📈 GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiLeNSwOrD&theme=radical&hide_border=true)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=SiLeNSwOrD&theme=radical&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
