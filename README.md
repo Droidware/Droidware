@@ -29,8 +29,7 @@
 ---
 
 ## 📈 GitHub Streaks
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Droidware&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiLeNSwOrD&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
